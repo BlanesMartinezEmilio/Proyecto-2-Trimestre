@@ -1,0 +1,10 @@
+{"_id":{"$oid":"622567be4de42926e29e40c1"},"id":1,"vendedor":"Lucas","cliente":"Claudio Quero"}
+{"_id":{"$oid":"622567be4de42926e29e40c2"},"id":2,"vendedor":"Manuel","cliente":"Juan Carlos Arana"}
+{"_id":{"$oid":"622567be4de42926e29e40c3"},"id":3,"vendedor":"Daniel","cliente":"Martin Morcillo"}
+{"_id":{"$oid":"622567be4de42926e29e40c4"},"id":4,"vendedor":"Juan","cliente":"Roberto Patiño"}
+{"_id":{"$oid":"622567be4de42926e29e40c5"},"id":5,"vendedor":"Daniel","cliente":"Ricardo Jimenez"}
+{"_id":{"$oid":"622567be4de42926e29e40c6"},"id":6,"vendedor":"Manuel","cliente":"Federico Quiroga"}
+{"_id":{"$oid":"622567be4de42926e29e40c7"},"id":7,"vendedor":"Lucas","cliente":"Fabio Casado"}
+{"_id":{"$oid":"622567be4de42926e29e40c8"},"id":8,"vendedor":"Juan","cliente":"Miquel Minguez"}
+{"_id":{"$oid":"622567be4de42926e29e40c9"},"id":9,"vendedor":"Manuel","cliente":"Alexander Coll"}
+{"_id":{"$oid":"622567be4de42926e29e40ca"},"id":10,"vendedor":"Juan","cliente":"Enrique Pineda"}

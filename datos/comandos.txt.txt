@@ -1,0 +1,21 @@
+Exportar en local
+mongoexport --collection=productos --db=proyectoT2 --out=productos.json
+mongoexport --collection=VendedorCliente --db=proyectoT2 --out=VendedorCliente.json
+mongoexport --collection=proveedores --db=proyectoT2 --out=proveedores.json
+mongoexport --collection=ventas --db=proyectoT2 --out=ventas.json
+
+Exportar en MongoDB Atlas
+mongoexport --uri mongodb+srv://usuario1:<password>@cluster0.x2qcy.mongodb.net/test --collection productos --type json --out productos.json
+
+
+Importar en local
+mongoimport --db=test --collection=productos --file=productos.json
+mongoimport --db=test --collection=VendedorCliente --file=VendedorCliente.json
+mongoimport --db=test --collection=proveedores --file=proveedores.json
+mongoimport --db=test --collection=ventas --file=ventas.json
+
+Importar en MongoDB Atlas
+mongoimport --uri mongodb+srv://usuario1:<password>@cluster0.x2qcy.mongodb.net/test --collection productos --type json --file productos.json
+mongoimport --uri mongodb+srv://usuario1:<password>@cluster0.x2qcy.mongodb.net/test --collection VendedorCliente --type json --file VendedorCliente.json
+mongoimport --uri mongodb+srv://usuario1:<password>@cluster0.x2qcy.mongodb.net/test --collection proveedores --type json --file proveedores.json
+mongoimport --uri mongodb+srv://usuario1:<password>@cluster0.x2qcy.mongodb.net/test --collection ventas --type json --file ventas.json

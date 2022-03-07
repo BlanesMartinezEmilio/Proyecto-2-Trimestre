@@ -1,0 +1,4 @@
+{"_id":{"$oid":"62253f744de42926e29e2606"},"nombre":"Hugo Boss","nProvisiones":4}
+{"_id":{"$oid":"62253f744de42926e29e2607"},"nombre":"Emporio Armani","nProvisiones":3}
+{"_id":{"$oid":"62253f744de42926e29e2608"},"nombre":"Continental","nProvisiones":3}
+{"_id":{"$oid":"62253f744de42926e29e2609"},"nombre":"Casio","nProvisiones":5}
